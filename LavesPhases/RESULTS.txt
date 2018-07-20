@@ -1,0 +1,5 @@
+The ~ 9 motifs for the Laves Phases. Some of them are quite similar but have different bond lengths due to the different atomic species that were in the original structures.
+
+I compared all of the 24 Zr50Cu45Al5 motifs to the Laves Phase motifs and only the icosahedral motif from the ZCA ones was similar to a Laves Phase motif.
+
+This is a "negative" result in that "basically no ZCA motifs are similar to the LP motifs" but it is a result.
